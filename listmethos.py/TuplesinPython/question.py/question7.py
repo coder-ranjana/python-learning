@@ -1,3 +1,4 @@
+#WAP to check if a list contains a plaindrome of elements. (Hint: use copy()method)
 list1 = ["a", "m", "m", "a"]
 
 
