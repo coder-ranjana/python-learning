@@ -8,4 +8,5 @@ student = {
    "engl" :95
   }
  }
-print(list(student.items()))
+pairs = list(student.items())
+print(pairs[0])
