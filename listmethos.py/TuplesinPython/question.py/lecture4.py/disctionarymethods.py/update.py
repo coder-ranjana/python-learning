@@ -10,3 +10,16 @@ student = {
 student.update({"city" : "delhi"})
 
 print(student)
+
+
+
+
+
+
+
+
+
+
+
+
+
