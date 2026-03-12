@@ -1,4 +1,4 @@
-#WAP to enter marksof 3 subjects form the user and store them in a dictionary. Start with an empty dictionary & add one bt one. Use subject name as kay & marks as value.
+#WAP to enter marks of 3 subjects form the user and store them in a dictionary. Start with an empty dictionary & add one bt one. Use subject name as kay & marks as value.
 
 marks = {}
 
